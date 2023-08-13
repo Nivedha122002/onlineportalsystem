@@ -1,5 +1,16 @@
 # Online Portal System
-The project entitled as “ONLINE PORTAL STSTEM” is developed using JSP Server as front end and MySQL as back end. The aim of the project is to provide an interface to school or college maintenance.
+The project entitled as “ONLINE PORTAL STSTEM” is developed using JSP Server as front end and MySQL as back end. The aim of the project is to provide an interface to school or college maintenance.It can be used by educational
+institutes or coaching classes to investigate student performance easily. It is used in
+collecting the performance report of students according to year, branch, section and subject
+wise which is a quite difficult and time consuming process in every college. It deals with all
+kinds of student details, course details, class details, and academic-related marks details and
+reports. It keeps track of all details of a student from day one to the end of the academic
+which can be used for all reporting purposes. A teacher can see the pass percentage of the
+student through pictorial representation which can be categorized semester wise, the overall
+performance of a class . It’s a web-based application that can be accessed from anyplace
+through a web browser. It also allows the student to see their performance in the semester.
+This will also help the college management to take the appropriate actions to improve the
+quality of education and helps in improving the performance of students. 
 
 # Modules
 1. Administrator module
