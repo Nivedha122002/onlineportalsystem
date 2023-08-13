@@ -46,7 +46,11 @@ Current system is bit time consuming as they require some amount of work to be d
 This is the tracking system which is used to keep track on the students overall academic performance and generate its report. In this system, a user can view the performance report . System can also compare each semester and user can see the comparative analysis report of the particular semester. In the proposed system, the staff can permit leave, add attendance details and the rest of the things will be done by the system which make it simple and fast.
 
 # SYSTEM TESTING
-    Software testing is the critical element of the software quality assurance and represents the ultimate view of specialization, design and coding. The increasing availability of the software as a system element and the attendant costs associated with a software failureare motivating forces for well planned through testing.
+Software testing is the critical element of the software quality assurance and
+represents the ultimate view of specialization, design and coding. The increasing availability
+of the software as a system element and the attendant costs associated with a software failure
+are motivating forces for well planned through testing.
+
 There are several strategies that are used in the system.
 ● Unit Testing
 ● Integration Testing
